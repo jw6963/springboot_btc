@@ -4,6 +4,7 @@
   "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
 	<settings>
+		abc
 	  	<setting name="mapUnderscoreToCamelCase" value="true"/>
 	</settings>
 </configuration>

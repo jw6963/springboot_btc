@@ -12,7 +12,7 @@
         </Property>
         <Property name="pattern">.%d{yyyyMMddHH}</Property>
     </Properties>
-
+abc
     <Appenders>
         <Console name="STDOUT" target="SYSTEM_OUT" ignoreExceptions="false">
             <PatternLayout>
