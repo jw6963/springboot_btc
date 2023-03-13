@@ -1,2 +1,4 @@
 .idea/
 target/
+
+sample/** # 경로상의 모든 폴더
