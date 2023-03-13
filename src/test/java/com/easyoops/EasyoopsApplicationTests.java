@@ -12,20 +12,4 @@ class EasyoopsApplicationTests {
 	void contextLoads() {
 	}
 
-	void method2() {
-
-	}
-
-	void method3() {
-
-	}
-
-	void method4() {
-
-	}
 }
-
-helloworld
-helloworld
-helloworld
-sasda
